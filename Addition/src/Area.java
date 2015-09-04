@@ -15,9 +15,6 @@ public static void main(String args[]){
 	double a;
 	a=0.5*l*w;
 	System.out.println("area of traingle is : " + a );
-	
-	
-}
-}
+}}
 
 
